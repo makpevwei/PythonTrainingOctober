@@ -1,1 +1,1 @@
-# PythonTrainingOctober
+# Python Training October
