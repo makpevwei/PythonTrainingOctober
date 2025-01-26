@@ -1,0 +1,5 @@
+Python is a programming language.
+Python  is easy to learn.
+Python is used for data analysis and web development.
+Python is a great language.
+Python has a large community.
